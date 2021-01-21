@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning PHP and administration
+- 🌱 I’m currently doing something weird
 - 📫 How to reach me: @asc3rr on Twitter
